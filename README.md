@@ -26,7 +26,7 @@ Per avviare il sito web locale sul tuo computer, segui questi passaggi:
 1. Assicurati di avere un browser web installato sul tuo computer, come Google Chrome (scelta consigliata), Mozilla Firefox o Microsoft Edge.
 2. Clona questo repository sul tuo computer utilizzando il comando `git clone` seguito dall'URL del repository.Esempio:
      ```bash
-   git clone https://github.com/ScarletOrpheus/Generative-AI-Martina-Forgelli.git
+   git clone https://github.com/ScarletOrpheus/Creative-AI-Engineer-Test.git
 
 4. Naviga nella cartella del repository appena clonato utilizzando il terminale o la riga di comando.
 5. Apri il file `index.html` nel tuo browser predefinito per visualizzare la homepage del sito.
